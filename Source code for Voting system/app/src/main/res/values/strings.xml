@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voting System</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already registered?</string>
+
+</resources>
